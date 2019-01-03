@@ -48,7 +48,7 @@
     "url": "wall_e",
     "title_text": "Wall-E",
     "audio_text": "Wall-E is a  2008 American computer-animated science fiction film produced by Pixar Animation Studios.  In the 29th century, Earth has been abandoned and covered in garbage, its population having been evacuated by the megacorporation Buy-N-Large (BnL) on giant starliners seven centuries earlier after decades of mass consumerism facilitated by BnL. BnL has left behind WALL-E robot trash compactors to clean up; however, all have since stopped functioning, except one unit who has gained sentience and is scavenging parts from other units to remain active. \n WALL-E was designed to be an environmentally-friendly garbage-processing robot. As such, he possesses many interesting devices to help him fulfill his directive. \n He has twin, extending, hydraulic arm shovels with articulated fingers mounted on U-shaped tracks to his sides. Super-high-efficiency solar panels unfold from the top of his chest and recharge the batteries contained adjacent to his control system. Two powerful hydraulic presses on his back operate his compactor function, compressing trash in his body cavity into neat cubes that can be easily stacked and carted away. ",
-    "audio_link": "wall_e.m4a",
+    "audio_link": "wall_e.mp3",
     "image_link": "wall_e.jpg",
     "next_url": "johnny_5",
     "previous_url": "the_iron_giant"
