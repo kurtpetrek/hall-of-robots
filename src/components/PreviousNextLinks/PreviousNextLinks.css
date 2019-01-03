@@ -1,0 +1,29 @@
+.PreviousNextLinks {
+  text-align: center;
+  padding-bottom: 3rem;
+}
+
+ a {
+   display: inline-block;
+  width: 125px;
+  text-decoration: none;
+  border: 1px solid #fff;
+  background: #ff6900;
+  color: #fff;
+  font-size: 1.5rem;
+  margin: 0 1rem;
+  font-weight: bold;
+  padding: 5px 10px;
+  cursor: pointer;
+  transition: .25s;
+}
+
+.PreviousNextLinks button:hover {
+  transform: translateY(-2px);
+  background: #fff;
+  color: #ff6900;
+}
+
+.PreviousNextLinks button:active {
+  transform: translateY(0px) scale(.9);
+}
